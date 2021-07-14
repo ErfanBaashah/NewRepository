@@ -1,0 +1,1 @@
+ssh -i "DemoDevOps.pem" ec2-user@ec2-3-139-60-22.us-east-2.compute.amazonaws.com
